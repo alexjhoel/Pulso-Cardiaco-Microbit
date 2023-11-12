@@ -232,11 +232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\Pulso Cardiaco Microbit\\RadarMicroBit\\Tu pulso MicroBit.csproj",
+      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\Pulso Cardiaco Microbit\\Source\\Tu pulso MicroBit.csproj",
       "projectName": "Tu pulso MicroBit",
-      "projectPath": "C:\\Users\\Alexander\\Desktop\\Pulso Cardiaco Microbit\\RadarMicroBit\\Tu pulso MicroBit.csproj",
+      "projectPath": "C:\\Users\\Alexander\\Desktop\\Pulso Cardiaco Microbit\\Source\\Tu pulso MicroBit.csproj",
       "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexander\\Desktop\\Pulso Cardiaco Microbit\\RadarMicroBit\\obj\\",
+      "outputPath": "C:\\Users\\Alexander\\Desktop\\Pulso Cardiaco Microbit\\Source\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
